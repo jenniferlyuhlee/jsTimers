@@ -1,3 +1,4 @@
+//countdown function
 function countDown(num){
     let timer = setInterval(function(){
         num--;
@@ -10,4 +11,5 @@ function countDown(num){
         }
     }, 1000);
 
-}
+} 
+

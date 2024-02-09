@@ -1,3 +1,4 @@
+//randomGame function
 function randomGame(){
     let counter = 1;
     let timer = setInterval(function(){
@@ -10,4 +11,6 @@ function randomGame(){
         counter++;
     }, 1000)
     
+    
 }
+
